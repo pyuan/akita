@@ -10,5 +10,5 @@ v1.1 (2012.08.12)
 -repositioning of speech bubbles on window scroll & resize events
 -added option to specify placement of speech bubble
 -fix for speech bubbles not properly being hidden on hide event
--fix for speech bubble blocking mouse interaction with element behind it
+-fix for speech bubble blocking mouse interaction with element behind it 
  
