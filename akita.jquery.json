@@ -1,0 +1,36 @@
+{
+  "name": "akita",
+  "title": "Akita Speech Bubble Tooltip",
+  "description": "Akita is a light-weight and customizable jQuery plugin that helps web developers create smarter tooltips easily and efficiently.",
+  "keywords": [
+    "tooltip",
+    "speech",
+    "bubble"
+  ],
+  "version": "1.1",
+  "author": {
+    "name": "Paul Yuan",
+    "url": "http://paulyuan.ca"
+  },
+  "maintainers": [
+    {
+      "name": "Paul Yuan",
+      "email": "pyuana@gmail.com",
+      "url": "https://twitter.com/pyuan"
+    }
+  ],
+  "licenses": [
+    {
+      "type": "MIT",
+      "url": "http://opensource.org/licenses/MIT"
+    }
+  ],
+  "bugs": "https://github.com/pyuan/akita/issues",
+  "homepage": "http://paulyuan.ca/akita/",
+  "docs": "http://paulyuan.ca/akita/",
+  "download": "http://paulyuan.ca/akita/#download",
+  "demo": "http://paulyuan.ca/akita/demo.php",
+  "dependencies": {
+    "jquery": ">=1.5"
+  }
+}
