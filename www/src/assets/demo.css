@@ -1,0 +1,121 @@
+/*** CSS Reset ***/
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, address, code, img, small, strong, dl, dt, dd, ol, ul, li, fieldset, form, label {
+    margin:0;
+    padding:0;
+    border:0;
+    outline:0;
+    font-size:100%;
+    vertical-align:baseline;
+    background:transparent;
+}
+body {
+    line-height:1;
+}
+ol, ul {
+    list-style:none;
+}
+/*** end of css reset ***/
+html {
+    position: relative;
+    overflow: auto;
+}
+body {
+    position: relative;
+    overflow: auto;
+    font-family: Arial, Helvetica, Verdana, sans-serif;
+    font-size: 10pt;
+    line-height: 10pt;
+    color: black;
+    background: url("images/bg.png") repeat;
+}
+
+h1 {
+	font-size: 25px;
+	margin-bottom: 25px;
+	line-height: 27px;
+}
+
+#title {
+	width: 150px;
+}
+
+h2 {
+	margin-bottom: 10px;
+	max-width: 300px;
+}
+
+.content {
+	position: relative;
+	overflow: hidden;
+	padding: 25px;
+}
+
+.test {
+	position: absolute;
+	overflow: hidden;
+	bottom: 20px;
+	right: 20px;
+}
+
+#somelist {
+	position: relative;
+	overflow: auto;
+	margin: 25px;
+	width: 250px;
+	height: 100px;
+}
+
+#somelist li {
+	margin-bottom: 10px;
+}
+
+#redbox {
+	position: relative;
+	overflow: hidden;
+	width: 100px;
+	height: 100px;
+	background: red;
+	margin: 25px;
+}
+
+#flag {
+	position: absolute;
+	overflow: hidden;
+	width: 250px;
+	top: 500px;
+	right: 250px;
+}
+
+#usa {
+	margin: 100px;
+}
+
+p {
+	font-size: 12px;
+	line-height: 14px;
+	width: 300px;
+	margin-bottom: 20px;
+}
+
+p:nth-child(8) {
+	color: red;
+}
+
+#hList li {
+	position: relative;
+	overflow: hidden;
+	width: 50px;
+	height: 50px;
+	float: left;
+	margin: 0px 10px 0px 0px;
+	background: #994F00;
+}
+
+#hello {
+	position: absolute;
+	overflow: hidden;
+	left: 400px;
+	top: 200px;
+}
+
+  	
