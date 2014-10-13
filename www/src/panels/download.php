@@ -9,19 +9,19 @@
 	<tr>
 		<td><a href="#" target="_blank">akita.1.1.2.zip</a></td>
 		<td>2013.10.13</td>
-		<td><a href="libs/akita.1.1.2/readme.txt" target="_blank">Change Log</a></td>
+		<td><a href="downloads/akita.1.1.2.readme.txt" target="_blank">Change Log</a></td>
 	</tr>
 	
 	<tr>
 		<td><a href="#" target="_blank">akita.1.1.1.zip</a></td>
 		<td>2013.05.27</td>
-		<td><a href="libs/akita.1.1.1/readme.txt" target="_blank">Change Log</a></td>
+		<td><a href="downloads/akita.1.1.1.readme.txt" target="_blank">Change Log</a></td>
 	</tr>
 	
 	<tr>
 		<td><a href="#" target="_blank">akita.1.1.zip</a></td>
 		<td>2012.08.07</td>
-		<td><a href="libs/akita.1.1/readme.txt" target="_blank">Change Log</a></td>
+		<td><a href="downloads/akita.1.1.readme.txt" target="_blank">Change Log</a></td>
 	</tr>
 	
 	<tr>
