@@ -7,8 +7,8 @@
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jqueryui/1.8.18/jquery-ui.min.js"></script>
 
 <!-- akita plugin -->
-<script type="text/javascript" src="libs/akita.1.1.1/jquery.akita.1.1.1.min.js"></script>
-<link rel="stylesheet" title="default" type="text/css" href="libs/akita.1.1.1/akita.1.1.1.css"/>	
+<script type="text/javascript" src="libs/akita.1.1.2/jquery.akita.1.1.2.min.js"></script>
+<link rel="stylesheet" title="default" type="text/css" href="libs/akita.1.1.2/akita.1.1.2.css"/>	
 
 <!-- syntaxhighlighter plugin -->
 <script type="text/javascript" src="libs/syntaxhighlighter_3.0.83/scripts/shCore.js"></script>
