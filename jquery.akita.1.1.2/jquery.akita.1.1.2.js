@@ -78,10 +78,10 @@
 	    {
 	    	$(window).unbind("resize." + $.akita.NAMESPACE)
 	    		.bind("resize." + $.akita.NAMESPACE, function(){
-					$.akita.respositionAll();
+					$.akita.repositionAll();
 				}).unbind("scroll." + $.akita.NAMESPACE)
 				.bind("scroll." + $.akita.NAMESPACE, function(){
-					$.akita.respositionAll();
+					$.akita.repositionAll();
 				});
 	    }
 	}
@@ -495,7 +495,7 @@ jQuery.extend({
     	 * reposition all speech bubbles
     	 * @param none
     	 */
-    	respositionAll: function()
+    	repositionAll: function()
     	{
     		$("." + this.SPEECH_BUBBLE_CLASS).each(function(){
     			if( !$(this).is(':animated') ) 

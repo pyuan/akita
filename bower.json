@@ -1,7 +1,7 @@
 {
   "name": "akita",
-  "version": "1.1.1",
-  "main": "jquery.akita.1.1.1/",
+  "version": "1.1.2",
+  "main": "jquery.akita.1.1.2/",
   "description": "Akita is a light-weight and customizable jQuery plugin that helps web developers create smarter tooltips easily and efficiently.",
   "license": "MIT",
   "dependencies": {
