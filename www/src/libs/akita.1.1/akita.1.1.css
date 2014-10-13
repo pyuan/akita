@@ -1,0 +1,54 @@
+/**
+ * This plugin was developed by Paul Yuan
+ * This plugin create a speech bubble tooltip base on the specified options
+ * This plugin requires jquery.akita.js
+ * This plugin is released under the MIT license and anyone can use and modify without any restriction
+ * http://www.paulyuan.ca
+ */
+.akitaSpeechBubble {
+	position: absolute;
+	overflow: visible;
+	top: 0px;
+	left: 0px;
+	z-index: 999999999;
+	-moz-box-shadow: 0px 2px 5px #777777;
+	-webkit-box-shadow: 0px 2px 5px #777777;
+	box-shadow: 0px 2px 5px #777777;
+	pointer-events: none;
+}
+
+.akitaSpeechBubble .akita_content_container {
+	position: relative;
+	overflow: hidden;
+	z-index: 2;
+}
+
+.akitaSpeechBubble .akita_content_background {
+	position: absolute;
+	overflow: hidden;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+	z-index: 0;
+}
+
+.akitaSpeechBubble .akita_content {
+	position: relative;
+	overflow: hidden;
+	font-size: 11px;
+	line-height: 13px;
+	padding: 10px;
+}
+
+.akitaSpeechBubble .akita_speech_bubble_tip {
+	position: absolute;
+	overflow: hidden;
+	z-index: 1;
+}
+
+
+
+
+
+
